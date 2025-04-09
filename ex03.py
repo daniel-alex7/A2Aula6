@@ -1,4 +1,4 @@
-sex = input("Digite seu sexo: [M] e [F]: ").upper
+sex = input("Digite seu sexo: [M] e [F]: ").strip().upper
 altura = float(input("Digite sua altura em metros [exemplo: 1.70]: "))
 
 

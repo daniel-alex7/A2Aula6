@@ -5,4 +5,4 @@ resto = segundos_totais % 3600
 minutos = resto // 60  
 segundos = resto % 60
 
-print(f'O valor será ||Horas: {horas}||Minutos: {minutos}||Segundos: {segundos}')
+print(f'O valor será || Horas: {horas}|| Minutos: {minutos}|| Segundos: {segundos}')
